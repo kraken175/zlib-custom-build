@@ -14,3 +14,6 @@ This master branch was created by [SFTCP1](https://github.com/SFTCP1), so it rel
 1. git clone https://github.com/iammopeio/zlib-custom-build.git
 2. cd zlib-custom-build
 3. git checkout master
+
+To build a library:
+1. cmake -G Ninja .
