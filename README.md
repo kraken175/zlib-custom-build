@@ -8,4 +8,4 @@ It contains:
 - Preconfigured Ninja file to build with GCC
 - Edited Sample Programs
 
-The zlib custom source code can be seen in ['master'](https://github.com/iammopeio/zlib-custom-build/blob/master) branch, while SwordFishTheChordedPlayer1 is working in
+The zlib custom source code can be seen in ['master'](https://github.com/iammopeio/zlib-custom-build/tree/master) branch, while SwordFishTheChordedPlayer1 uploaded it. so try to use Ninja or CMake.
