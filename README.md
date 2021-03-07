@@ -7,3 +7,5 @@ It contains:
 - CRC32C polynomial instead of CRC32
 - Preconfigured Ninja file to build with GCC
 - Edited Sample Programs
+
+The zlib custom source code can be seen in 'master' branch, while SwordFishTheChordedPlayer1 is working in
